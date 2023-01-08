@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstLambdaWithRaul", "FirstLambdaWithRaul\FirstLambdaWithRaul.csproj", "{C2813092-6B72-4300-BF27-53A5AAB5958A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salvation.Lambda.Annotations", "Salvation.Lambda.Annotations\Salvation.Lambda.Annotations.csproj", "{B9FA1947-94BA-4805-850A-D4B6799226D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda.SQSTest", "AWSLambda.SQSTest\AWSLambda.SQSTest.csproj", "{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C2813092-6B72-4300-BF27-53A5AAB5958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2813092-6B72-4300-BF27-53A5AAB5958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2813092-6B72-4300-BF27-53A5AAB5958A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FA1947-94BA-4805-850A-D4B6799226D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FA1947-94BA-4805-850A-D4B6799226D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FA1947-94BA-4805-850A-D4B6799226D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FA1947-94BA-4805-850A-D4B6799226D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
