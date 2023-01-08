@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salvation.Lambda.Annotation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda.SQSTest", "AWSLambda.SQSTest\AWSLambda.SQSTest.csproj", "{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda.SNSTest", "AWSLambda.SNSTest\AWSLambda.SNSTest.csproj", "{318FB618-BE7F-40F8-96AD-A24F638C8E7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambda.LifeCycle.Sample", "AWSLambda.LifeCycle.Sample\AWSLambda.LifeCycle.Sample.csproj", "{1FC899C8-77A1-47AC-96A6-87936A280E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54BBC4EF-1EDA-4D3D-A1D1-2CAF610C9A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318FB618-BE7F-40F8-96AD-A24F638C8E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318FB618-BE7F-40F8-96AD-A24F638C8E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318FB618-BE7F-40F8-96AD-A24F638C8E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318FB618-BE7F-40F8-96AD-A24F638C8E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC899C8-77A1-47AC-96A6-87936A280E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC899C8-77A1-47AC-96A6-87936A280E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC899C8-77A1-47AC-96A6-87936A280E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC899C8-77A1-47AC-96A6-87936A280E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
